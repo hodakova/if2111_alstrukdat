@@ -1,3 +1,3 @@
-# Algoritþm and Data Structure IST*
+# Algoritþm and Data Structure IST
 - practicum
 - exercise
