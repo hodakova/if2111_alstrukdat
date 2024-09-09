@@ -1,1 +1,3 @@
-# practicum_if2111_alstrukdat
+# Algoritþm and Data Structure IST*
+- practicum
+- exercise
